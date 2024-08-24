@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dwaragha
-- 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning AWS Cloud and AI/ML
-- 💞️ I’m looking to collaborate on Cloud and AI/ML technologies
+- 👀 I’m passionate about AWS Cloud and AI/ML 
 
 <!---
 dwaragha/dwaragha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
